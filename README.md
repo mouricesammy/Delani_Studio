@@ -1,7 +1,7 @@
 # Delani-Studio
 ## Description
 This is a landing page for a pseudo-company, Delani Studio, aimed at assessing my HTML, CSS, BootStrap, and jQuery skills at Moringa School. It contains a page with the company name and logo, an about us and services offered section, a portfolio to highlight past work and a section where the user can send feedback and leave their email.
-Attached is the link to the Delani Studio Webpage:
+Attached is the link to the Delani Studio Webpage:https://mouricesammy.github.io/Delani_Studio/
 ## Contributers
 Mourice Oronje (2022 December 1st)
 ## Technologies Used
